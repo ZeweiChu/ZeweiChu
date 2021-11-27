@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I am passionate about metaverse and blockchain these days, and I would love to remove the barrier of distance for people all over the world, hence everyone is able to live and work everywhere on the earth. 
 - 🔭 My PhD area is natural language processing and machine learning. 
 - 📫 How to reach me: zeweichu at gmail dot com
-- [Personal Website](zeweichu.github.io)
+- [Personal Website](http://zeweichu.github.io)
 
 <img align="left" alt="Rajaswa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeweichu&show_icons=true&hide_border=true" />
 <br />
