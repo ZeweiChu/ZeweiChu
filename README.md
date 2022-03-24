@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am passionate about metaverse and blockchain these days, and I would love to remove the barrier of distance for people all over the world, hence everyone is able to live and work everywhere on the earth. 
-- 🔭 My PhD area is natural language processing and machine learning. 
+- 🔭 I did my PhD on natural language processing and machine learning at the University of Chicago. 
 - 📫 How to reach me: zeweichu at gmail dot com
 - [Personal Website](http://zeweichu.github.io)
 
